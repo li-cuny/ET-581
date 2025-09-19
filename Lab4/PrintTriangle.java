@@ -1,4 +1,4 @@
-public class PrintTraiangle {
+public class PrintTriangle {
     public static void main(String[] args) {
         int n = 5;
         System.out.println("---------------------");
