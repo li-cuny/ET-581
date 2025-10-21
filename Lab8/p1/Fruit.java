@@ -1,0 +1,3 @@
+class Fruit{
+    String name;
+}
